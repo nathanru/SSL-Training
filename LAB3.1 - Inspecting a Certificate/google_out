@@ -1,0 +1,11 @@
+serial=FABC89F7BF3310940A0000000125FD32
+issuer=C = US, O = Google Trust Services LLC, CN = GTS CA 1C3
+notBefore=Nov 29 02:22:33 2021 GMT
+notAfter=Feb 21 02:22:32 2022 GMT
+subject=CN = *.google.com
+-----BEGIN PUBLIC KEY-----
+MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEocLSdMwyaIZoGAyPWuEsbvtnPCcm
+C7X50v8HckaCF1HIXxbsq1jvm8KdQVuhZGrqKrtC3g1zvKMrBzfIG2uFXQ==
+-----END PUBLIC KEY-----
+Modulus=Wrong Algorithm type
+http://ocsp.pki.goog/gts1c3
